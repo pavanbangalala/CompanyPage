@@ -1,2 +1,2 @@
 # CompanyPage
-Sample app to demonstrate basic react native cocepts
+Sample app to demonstrate basic react native cocepts.
